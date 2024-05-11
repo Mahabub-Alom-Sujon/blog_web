@@ -952,4 +952,7 @@ tbody tr td .user-name{
     .single-footer-widget .logo{
         width: 160px;
     }
+    .post-content .col-sm-9{
+        padding: 0px 10px 0px 10px;
+    }
 }
